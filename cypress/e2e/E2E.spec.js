@@ -24,7 +24,7 @@ const dashboard =new PageObject();
 
 
     it("Verify customer can view Dashboard successfully", function () {
-        dashboard.textCheck();
+      dashboard.textCheck();
     });
 
  
