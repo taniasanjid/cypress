@@ -1,1 +1,1 @@
-# UI automation in Cypress tool with mochaawesome report 
+# UI automation in Cypress tool with mochawesome report 
